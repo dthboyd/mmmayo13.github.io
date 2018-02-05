@@ -9,14 +9,14 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Matthew Mayo
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "I turn coffee into code which requires refactoring, which I then refactor."
+  email:          mattmayo13@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        mattmayo13
   facebook:       
-  github:         
+  github:         mmmayo13
   stackexchange:  
   linkedin:       
   instagram:      
